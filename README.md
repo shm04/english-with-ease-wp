@@ -27,8 +27,7 @@ Read this in [Spanish](./README-es.md)
 The EWE Academy Landing Page is not a traditional static website; it is a **performance-first conversion funnel**. Designed to capture highly qualified leads for a premium English academy, the site guides users through a modern, engaging interface that highlights the academy's unique methodology.
 
 **Key Links:**
-* [Live Demo / Website](#) 
-* [Design Mockups / Figma](#)
+* [Live Demo / Website](https://eweacademy.com/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,12 +88,12 @@ Engineered to dominate Core Web Vitals and search rankings to reduce Customer Ac
 👤 **Sebastian Hernandez**
 * **Role:** Frontend Engineer / UI Developer
 * **Agency:** [Elevate Agency](https://your-elevate-link.com)
-* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/your-profile)
-* **GitHub:** [@your-github](https://github.com/your-github)
+* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/sebastian-hernandez-munoz/)
+* **GitHub:** [@your-github](https://github.com/shm04)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
-This project's design and custom logic are **Proprietary**. All rights reserved by Elevate Agency and EWE Academy.
+This project's design and custom logic are **Proprietary**—all rights reserved by Elevate Agency and EWE Academy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
