@@ -27,8 +27,7 @@ Leer en [Inglés](./README.md)
 La Landing Page de EWE Academy no es un sitio web estático tradicional; es un **embudo de conversión (funnel) enfocado en el rendimiento**. Diseñado para capturar prospectos altamente calificados para una academia de inglés premium, el sitio guía a los usuarios a través de una interfaz moderna y atractiva que destaca la metodología única de la institución.
 
 **Enlaces Clave:**
-* [Live Demo / Sitio Web](#) 
-* [Mockups de Diseño / Figma](#)
+* [Live Demo / Sitio Web](https://eweacademy.com/) 
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
@@ -54,7 +53,7 @@ El lenguaje de diseño refleja una estética de "Academia Premium", equilibrando
 ## 💻 Stack Tecnológico <a name="stack-tecnologico"></a>
 Construido para velocidad y escalabilidad utilizando una arquitectura React moderna.
 
-* **Framework:** React 19 + Vite 7 (para tiempos de compilación y HMR ultra rápidos).
+* **Framework:** React 19 + Vite 7 (para tiempos de compilación y HMR ultrarrápidos).
 * **Estilos:** Tailwind CSS v4.
 * **Enrutamiento y Code Splitting:** React Router DOM v7.
 * **Gestión de SEO:** React Helmet Async.
@@ -73,7 +72,7 @@ Diseñado para dominar las métricas de Core Web Vitals y el posicionamiento en 
 
 **Optimizaciones Clave:**
 * Formatos de imagen de próxima generación (WebP) con `fetchpriority="high"` para las secciones Hero para minimizar el LCP (Largest Contentful Paint).
-* Etiquetas Open Graph dinámicas y meta descripciones para rutas distintas (Inicio, Metodología, Blog).
+* Etiquetas Open Graph dinámicas y metadescipciones para rutas distintas (Inicio, Metodología, Blog).
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
@@ -89,8 +88,8 @@ Diseñado para dominar las métricas de Core Web Vitals y el posicionamiento en 
 👤 **Sebastian Hernandez**
 * **Rol:** Frontend Engineer / UI Developer
 * **Agencia:** [Elevate Agency](https://your-elevate-link.com)
-* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/your-profile)
-* **GitHub:** [@your-github](https://github.com/your-github)
+* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/sebastian-hernandez-munoz/)
+* **GitHub:** [@your-github](https://github.com/shm04)
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
